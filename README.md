@@ -28,6 +28,3 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/Noxx-7/Noxx-7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
