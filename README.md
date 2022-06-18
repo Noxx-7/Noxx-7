@@ -9,7 +9,8 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 <p>
 <a align= "center" href="https://github.com/Noxx-7">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Noxx-7&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="![readme_banner](https://user-images.githubusercontent.com/83027100/174424864-162933a5-8afa-4c1e-83b9-c571520e7f4f.gif)
+" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Noxx-7&count_private=true&theme=radical&show_icons=true" />
 
