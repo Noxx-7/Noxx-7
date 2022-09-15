@@ -14,7 +14,7 @@ I am a 5th sem student pursuing Bachelors in Computer science studies with a spe
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Noxx-7&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/Nox75518904" target="blank"><img src="https://img.shields.io/twitter/follow/Nox75518904?logo=twitter&style=for-the-badge" alt="Nox75518904" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahuldcrm" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldcrm?logo=twitter&style=for-the-badge" alt="rahuldcrm" /></a> </p>
 
 - 📫 How to reach me **rahulnox7@gmail.com**
 <br><br>
