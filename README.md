@@ -18,7 +18,7 @@ I'm a 5th semester student pursuing a Bachelor's in Computer Science with a spec
 
 - 📫 How to reach me **rahulnox7@gmail.com**
 <br><br>
-<hr>
+<!-- <hr> -->
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,5 +27,5 @@ I'm a 5th semester student pursuing a Bachelor's in Computer Science with a spec
 <a href="https://www.instagram.com/___nox7/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p> -->
 
-<hr>
+<!-- <hr> -->
 
