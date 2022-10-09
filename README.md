@@ -7,10 +7,7 @@ I'm a 5th semester student pursuing a Bachelor's in Computer Science with a spec
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noxx-7&label=Profile%20views&color=0e75b6&style=flat" alt="Noxx-7" /> </p>
 <p>
-<a align= "center" href="https://github.com/Noxx-7">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Noxx-7&theme=radical">
- <img align="left" src="![readme_banner](https://user-images.githubusercontent.com/83027100/174424914-5d81b21d-b155-4616-9621-cd1d51d3104d.gif)
-" width="50">
+
 </p>
 <!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Noxx-7&count_private=true&theme=radical&show_icons=true" /> -->
 
