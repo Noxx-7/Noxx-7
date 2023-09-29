@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <a href="https://github.com/Noxx-7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noxx-7&show_icons=true&theme=light&line_height=27" alt="Abhishek's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noxx-7&show_icons=true&theme=light&line_height=27" alt="Rahul's github stats"/>
 </a>
 
 
