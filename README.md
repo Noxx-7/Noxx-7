@@ -38,7 +38,7 @@
 
 <div align="center">
  
-![Rahul github activity graph](https://activity-graph.herokuapp.com/graph?username=Noxx-7)
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noxx-7&theme=synthwave)](https://git.io/streak-stats)
